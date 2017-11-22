@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- *Factorial program takes an number from the user and calculates the factorial using tail recursion.
+ *Factorial program takes an number from the user and calculates the factorial using tail recursion...
  */
 public class Factorial {
 	public static void main (String args[]) {
